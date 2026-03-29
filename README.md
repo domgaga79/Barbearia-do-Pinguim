@@ -2,8 +2,10 @@
 
 Sistema web desenvolvido para gerenciamento completo da Barbearia do Pinguim, permitindo controle de agendamentos, clientes e serviços de forma simples e eficiente.
 
+
 🔗 **Acesse o sistema:**
 https://barbeariadopinguim.bacuridigital.com
+
 
 
 
@@ -20,6 +22,7 @@ https://barbeariadopinguim.bacuridigital.com
  - Administração
  - Painel administrativo
  - Controle de usuários (se aplicável)
+
 
 
  
