@@ -5,6 +5,7 @@ Sistema web desenvolvido para gerenciamento completo da Barbearia do Pinguim, pe
 🔗 **Acesse o sistema:**
 https://barbeariadopinguim.bacuridigital.com
 
+
 📋 **Funcionalidades**
  - Agendamento de horários
  - Marcação de atendimentos
@@ -18,8 +19,9 @@ https://barbeariadopinguim.bacuridigital.com
  - Administração
  - Painel administrativo
  - Controle de usuários (se aplicável)
+
  
-🚀 Tecnologias utilizadas
+🚀 **Tecnologias utilizadas**
  - PHP
  - MySQL
  - HTML5
