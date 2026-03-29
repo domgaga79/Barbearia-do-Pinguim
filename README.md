@@ -1,11 +1,11 @@
-💈 Sistema Barbearia do Pinguim
+💈 **Sistema Barbearia do Pinguim**
 
 Sistema web desenvolvido para gerenciamento completo da Barbearia do Pinguim, permitindo controle de agendamentos, clientes e serviços de forma simples e eficiente.
 
-🔗 Acesse o sistema:
+🔗 **Acesse o sistema:**
 https://barbeariadopinguim.bacuridigital.com
 
-📋 Funcionalidades
+📋 **Funcionalidades**
  - Agendamento de horários
  - Marcação de atendimentos
  - Visualização de horários disponíveis
